@@ -1,4 +1,5 @@
 # Custor.AI | [Devfolio](https://devfolio.co/projects/custor-ai-13b4)
+> ### Ranking: 1st (Won 600 USD) 
 > Smarter Customer Insights, Seamless Solutions.
 
 ![image](https://github.com/user-attachments/assets/ba7c7526-6c05-4824-aede-25b8cb2e7cf7)

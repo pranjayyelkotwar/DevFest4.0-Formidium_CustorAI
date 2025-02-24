@@ -1,6 +1,6 @@
 # Custor.AI
 > Smarter Customer Insights, Seamless Solutions.
---- 
+----
 
 # Problems Custor AI Solves 
 
